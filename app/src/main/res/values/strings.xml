@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealthPet</string>
+    <string name="missyou">We miss you </string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="link_register">If you not account, register here</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="Welcome_to_healthpet">Welcome to HealthPet</string>
+</resources>
